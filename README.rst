@@ -140,5 +140,3 @@ Help
 ----
 
 Help Translate : http://trans.xadmin.io
- 
-测试 
